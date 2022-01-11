@@ -1,0 +1,93 @@
+- Did he fix his lines?
+
+- How many percent of fixed lines belong to him?
+
+
+# process PyDriller for all branches
+
+
+
+dataset has duplicated samples (different commit id => same content but different branches)
+
+
+email can be changed overtime
+
+
+Are there any environment condition that force a developer to fix a vulnerabilities, instead of others:
+  - Others are busy?
+  - Others developers are not active sometimes
+  - Only this developer know how to fix these files
+
+
+
+
+{
+  repository(owner: "apache", name: "struts") {
+    defaultBranchRef {
+      target {
+        ... on Commit {
+          history(path: "core/src/main/java/org/apache/struts2/util/TokenHelper.java") {
+            nodes {
+              committer {
+                user {
+                  login
+                }
+              }
+              committedDate
+              message
+              oid
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+{
+  repository(owner: "spring-projects", name: "spring-framework") {
+    defaultBranchRef {
+      target {
+        ... on Commit {
+          history(path: "spring-web/src/main/java/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java") {
+            nodes {
+              committer {
+                user {
+                  login
+                }
+              }
+              committedDate
+              message
+              oid
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+----------------------
+
+get branch of all commits in dataset
+
+get file history base on branch
+
+
+is this first commit on files?
+
+
+----------------------
+
+
+Note:
+  - Feature data missing:
+    Only 6626/7127 commits has username available
+
+
+
+torch.Size([1, 6, 768])
+
+

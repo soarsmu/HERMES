@@ -1,0 +1,600 @@
+38524     0.500000      enabl test
+38525     0.500000          fix 10
+38526     0.500000       fix enabl
+38527     0.500000        fix merg
+38528     0.500000      fix spring
+38529     0.500000    followup fix
+38530     0.500000          harden
+38531     0.500000   harden serial
+38532     0.500000   keycloak 4585
+38533     0.500000    narrow class
+38534     0.500000   whitespac log
+38535     0.500000  修复一些潜在的xxe漏洞代码
+38536     0.501696          approv
+38537     0.504540         protect
+38538     0.520506        backport
+38539     0.528049      branch git
+38540     0.543499    camel improv
+38541     0.551231             bja
+38542     0.552766     improv test
+38543     0.564029          attach
+38544     0.573438           valid
+38545     0.577096             xss
+38546     0.586717          deseri
+38547     0.610381         confirm
+38548     0.613100          serial
+38549     0.674972        followup
+38550     0.702589          vulner
+38551     0.760732          narrow
+38552     0.956488           secur
+38553     1.053797             cve
+0     -0.373678    tomcat trunk
+1     -0.366654    improv patch
+2     -0.366654      patch test
+3     -0.365754       xml secur
+4     -0.351061         develop
+5     -0.347199   updat jackson
+6     -0.346156           trunk
+7     -0.334136             doc
+8     -0.333593      failur git
+9     -0.314105          syncop
+10    -0.313673      improv log
+11    -0.311191          upgrad
+12    -0.308123     merg branch
+13    -0.305038           annot
+14    -0.304244           sourc
+15    -0.303571     secur stabl
+16    -0.303571           stabl
+17    -0.303295  secur configur
+18    -0.301200         doc git
+19    -0.301200        fix java
+20    -0.301200        java doc
+21    -0.299902             npe
+22    -0.299889         amq fix
+23    -0.297596          provid
+24    -0.297458            warn
+25    -0.291433          compil
+26    -0.290764           space
+27    -0.290064        download
+28    -0.288873      java trunk
+29    -0.286145            move
+38554     0.500000      enabl test
+38555     0.500000          fix 10
+38556     0.500000       fix enabl
+38557     0.500000    followup fix
+38558     0.500000          harden
+38559     0.500000   harden serial
+38560     0.500000   keycloak 4585
+38561     0.500000  method paramet
+38562     0.500000          narrow
+38563     0.500000    narrow class
+38564     0.500000        rf appli
+38565     0.500000   whitespac log
+38566     0.500000  修复一些潜在的xxe漏洞代码
+38567     0.526832             tc7
+38568     0.526832       tc7 trunk
+38569     0.526832      tomcat tc7
+38570     0.535019    camel improv
+38571     0.535735      branch git
+38572     0.535783           valid
+38573     0.553777             bja
+38574     0.590090     improv test
+38575     0.596499             xss
+38576     0.599784          deseri
+38577     0.601356     test failur
+38578     0.618771         confirm
+38579     0.632436          serial
+38580     0.665870        followup
+38581     0.723947          vulner
+38582     0.912655           secur
+38583     1.053075             cve
+0     -0.500000   improv patch
+1     -0.500000     patch test
+2     -0.415932     failur git
+3     -0.395272   tomcat trunk
+4     -0.368840    merg branch
+5     -0.368480            doc
+6     -0.346791          annot
+7     -0.342277        doc git
+8     -0.342277       fix java
+9     -0.342277       java doc
+10    -0.340111      xml secur
+11    -0.333070          sourc
+12    -0.330483         provid
+13    -0.329135            npe
+14    -0.327597         compil
+15    -0.324043          space
+16    -0.322607        develop
+17    -0.317267  updat jackson
+18    -0.316418          trunk
+19    -0.315868         syncop
+20    -0.311674          start
+21    -0.310518        amq fix
+22    -0.309744       download
+23    -0.302604     improv log
+24    -0.292228      fix start
+25    -0.292228    start secur
+26    -0.287696          field
+27    -0.287090        support
+28    -0.286088        amq git
+29    -0.278357           json
+38526     0.500000        fix merg
+38527     0.500000    followup fix
+38528     0.500000          harden
+38529     0.500000   harden serial
+38530     0.500000   keycloak 4585
+38531     0.500000      merg chang
+38532     0.500000  method paramet
+38533     0.500000    narrow class
+38534     0.500000        rf appli
+38535     0.500000   whitespac log
+38536     0.500000  修复一些潜在的xxe漏洞代码
+38537     0.505933             tc7
+38538     0.505933       tc7 trunk
+38539     0.505933      tomcat tc7
+38540     0.514520        backport
+38541     0.526016      branch git
+38542     0.529449             bja
+38543     0.548404             xss
+38544     0.566799          vulner
+38545     0.580232     improv test
+38546     0.593709           valid
+38547     0.594981          attach
+38548     0.599646    camel improv
+38549     0.642121          deseri
+38550     0.663536        followup
+38551     0.707494           secur
+38552     0.721386          serial
+38553     0.746860     test failur
+38554     0.780613          narrow
+38555     1.068137             cve
+0     -0.500000       failur git
+1     -0.378231     tomcat trunk
+2     -0.366254    updat jackson
+3     -0.358899          develop
+4     -0.348129              doc
+5     -0.342556          amq git
+6     -0.337327           provid
+7     -0.331719          amq fix
+8     -0.330857            annot
+9     -0.320903              npe
+10    -0.316053            trunk
+11    -0.311834      merg branch
+12    -0.311411            start
+13    -0.309972       improv log
+14    -0.308580        xml secur
+15    -0.307997    fix checkstyl
+16    -0.303692         download
+17    -0.303201           syncop
+18    -0.296131           master
+19    -0.290877           compil
+20    -0.286048             move
+21    -0.282605        class use
+22    -0.279140            field
+23    -0.275077        checkstyl
+24    -0.272327  better download
+25    -0.272327   download handl
+26    -0.270909             warn
+27    -0.269815             bean
+28    -0.269763             fail
+29    -0.269681            space
+38652     0.500000          fix 10
+38653     0.500000       fix enabl
+38654     0.500000        fix merg
+38655     0.500000   fix whitespac
+38656     0.500000    followup fix
+38657     0.500000          harden
+38658     0.500000   harden serial
+38659     0.500000   keycloak 4585
+38660     0.500000  method paramet
+38661     0.500000    narrow class
+38662     0.500000        rf appli
+38663     0.500000   whitespac log
+38664     0.500000  修复一些潜在的xxe漏洞代码
+38665     0.525359    camel improv
+38666     0.525839      branch git
+38667     0.531959          secret
+38668     0.539585           valid
+38669     0.543111          deseri
+38670     0.553090          vulner
+38671     0.556046             bja
+38672     0.560150             xss
+38673     0.578741          attach
+38674     0.581806         confirm
+38675     0.617236     improv test
+38676     0.653929          serial
+38677     0.677281        followup
+38678     0.752937     test failur
+38679     0.766947          narrow
+38680     0.857247           secur
+38681     0.983866             cve
+0     -0.500000     improv patch
+1     -0.500000       patch test
+2     -0.358440              npe
+3     -0.357993            annot
+4     -0.348119           provid
+5     -0.346142          develop
+6     -0.341724             fail
+7     -0.337151    updat jackson
+8     -0.330314    fix checkstyl
+9     -0.326302           syncop
+10    -0.321481     tomcat trunk
+11    -0.320578         download
+12    -0.316441              doc
+13    -0.315842        xml secur
+14    -0.310557            sourc
+15    -0.307632            field
+16    -0.300220  better download
+17    -0.300220   download handl
+18    -0.292934        fix start
+19    -0.292934      start secur
+20    -0.285358             bean
+21    -0.282063            trunk
+22    -0.281634       improv log
+23    -0.281180        checkstyl
+24    -0.278745       fix jenkin
+25    -0.277033          amq fix
+26    -0.276640            start
+27    -0.276461          amq git
+28    -0.275637       indent git
+29    -0.274383      merg branch
+38436     0.500000       fix enabl
+38437     0.500000        fix merg
+38438     0.500000        followup
+38439     0.500000    followup fix
+38440     0.500000          harden
+38441     0.500000   harden serial
+38442     0.500000        hv remov
+38443     0.500000   keycloak 4585
+38444     0.500000  method paramet
+38445     0.500000    narrow class
+38446     0.500000        rf appli
+38447     0.500000   whitespac log
+38448     0.500000  修复一些潜在的xxe漏洞代码
+38449     0.506999         protect
+38450     0.509788        backport
+38451     0.516005             tc7
+38452     0.516005       tc7 trunk
+38453     0.516005      tomcat tc7
+38454     0.520026          attach
+38455     0.522382    camel improv
+38456     0.545055             bja
+38457     0.554229             xss
+38458     0.565559      branch git
+38459     0.577411           valid
+38460     0.580305     improv test
+38461     0.628565          vulner
+38462     0.690611          serial
+38463     0.770451          narrow
+38464     0.936083           secur
+38465     1.021094             cve
+0     -0.456614       patch test
+1     -0.456403     improv patch
+2     -0.377195          develop
+3     -0.349658     tomcat trunk
+4     -0.344308           syncop
+5     -0.337254       improv log
+6     -0.334484              doc
+7     -0.323854        xml secur
+8     -0.322236         download
+9     -0.319610           provid
+10    -0.319153              npe
+11    -0.311438  better download
+12    -0.311438   download handl
+13    -0.311206          amq git
+14    -0.303450        fix start
+15    -0.303450      start secur
+16    -0.303234            start
+17    -0.298251             warn
+18    -0.297068            field
+19    -0.296753      secur stabl
+20    -0.296753            stabl
+21    -0.296216            annot
+22    -0.286770       indent git
+23    -0.284775             json
+24    -0.284317           compil
+25    -0.283723          fix ssl
+26    -0.279924          javadoc
+27    -0.279784             bean
+28    -0.278826            trunk
+29    -0.269790   header authent
+38697     0.500000  align wicket8
+38698     0.500000   chang branch
+38699     0.500000     enabl test
+38700     0.500000         fix 10
+38701     0.500000      fix enabl
+38702     0.500000       fix merg
+38703     0.500000   followup fix
+38704     0.500000         harden
+38705     0.500000  harden serial
+38706     0.500000  keycloak 4585
+38707     0.500000       rf appli
+38708     0.500000    unus method
+38709     0.500000  whitespac log
+38710     0.506216        protect
+38711     0.515953            tc7
+38712     0.518752      tc7 trunk
+38713     0.518752     tomcat tc7
+38714     0.528929            xss
+38715     0.532078    test failur
+38716     0.535458     branch git
+38717     0.564933   camel improv
+38718     0.566275    improv test
+38719     0.581440          valid
+38720     0.608196         deseri
+38721     0.629357        confirm
+38722     0.657970       followup
+38723     0.662072         vulner
+38724     0.674844         serial
+38725     0.878542          secur
+38726     1.001096            cve
+0     -0.501502       patch test
+1     -0.500000     improv patch
+2     -0.420251       failur git
+3     -0.413554     tomcat trunk
+4     -0.355171          doc git
+5     -0.355171         fix java
+6     -0.355171         java doc
+7     -0.355140          develop
+8     -0.336654             warn
+9     -0.334348        xml secur
+10    -0.331287    updat jackson
+11    -0.325196              doc
+12    -0.324361          amq fix
+13    -0.317239           syncop
+14    -0.315969          support
+15    -0.311194         download
+16    -0.310162           spring
+17    -0.309979            trunk
+18    -0.307942    fix checkstyl
+19    -0.307843            annot
+20    -0.306615           compil
+21    -0.296062             json
+22    -0.295034    set implement
+23    -0.295034         unus set
+24    -0.291748             mode
+25    -0.288984   header authent
+26    -0.282922  better download
+27    -0.282922   download handl
+28    -0.280891             fail
+29    -0.276300        checkstyl
+38910     0.500000      enabl test
+38911     0.500000          fix 10
+38912     0.500000       fix enabl
+38913     0.500000        fix merg
+38914     0.500000    followup fix
+38915     0.500000  method paramet
+38916     0.500000    narrow class
+38917     0.500000        rf appli
+38918     0.500000   whitespac log
+38919     0.500000         wicket8
+38920     0.500000  修复一些潜在的xxe漏洞代码
+38921     0.500503             tc7
+38922     0.500503       tc7 trunk
+38923     0.500503      tomcat tc7
+38924     0.504400          deseri
+38925     0.506968         protect
+38926     0.532695    camel improv
+38927     0.532999      branch git
+38928     0.547003          attach
+38929     0.547543        backport
+38930     0.557595     close close
+38931     0.583151             xss
+38932     0.599230           valid
+38933     0.605221     improv test
+38934     0.616624         confirm
+38935     0.622311          vulner
+38936     0.692812        followup
+38937     0.717579           secur
+38938     0.787068          narrow
+38939     0.940209             cve
+0     -0.428825       amq improv
+1     -0.418611       failur git
+2     -0.368647       patch test
+3     -0.362546     improv patch
+4     -0.358806          develop
+5     -0.350680     tomcat trunk
+6     -0.327917      merg branch
+7     -0.323193        xml secur
+8     -0.321886         download
+9     -0.321358           syncop
+10    -0.317302              npe
+11    -0.316983    updat jackson
+12    -0.313395         refactor
+13    -0.310908    fix checkstyl
+14    -0.310362          amq git
+15    -0.306769          doc git
+16    -0.306769         fix java
+17    -0.306769         java doc
+18    -0.306313           compil
+19    -0.290703             name
+20    -0.289728              doc
+21    -0.289514          amq fix
+22    -0.288361            annot
+23    -0.287822  better download
+24    -0.287822   download handl
+25    -0.286517             bean
+26    -0.284339       fix jenkin
+27    -0.281772          javadoc
+28    -0.281099            trunk
+29    -0.280986           provid
+38214     0.500000          fix 10
+38215     0.500000       fix enabl
+38216     0.500000        fix merg
+38217     0.500000    followup fix
+38218     0.500000          harden
+38219     0.500000   harden serial
+38220     0.500000   keycloak 4585
+38221     0.500000    narrow class
+38222     0.500000        rf appli
+38223     0.500000   whitespac log
+38224     0.500000  修复一些潜在的xxe漏洞代码
+38225     0.519234         protect
+38226     0.520100             tc7
+38227     0.520100       tc7 trunk
+38228     0.520100      tomcat tc7
+38229     0.523967        backport
+38230     0.537430     test failur
+38231     0.542720      branch git
+38232     0.544458          serial
+38233     0.549337    camel improv
+38234     0.554055             bja
+38235     0.579143     improv test
+38236     0.586294           valid
+38237     0.590266         confirm
+38238     0.603031          deseri
+38239     0.678251        followup
+38240     0.679207          vulner
+38241     0.789120          narrow
+38242     0.808005           secur
+38243     1.046078             cve
+0     -0.503225       patch test
+1     -0.500000     improv patch
+2     -0.405178       failur git
+3     -0.388512     tomcat trunk
+4     -0.378362           provid
+5     -0.343472      merg branch
+6     -0.340579            trunk
+7     -0.336559          doc git
+8     -0.336559         fix java
+9     -0.336559         java doc
+10    -0.335911    updat jackson
+11    -0.335064           syncop
+12    -0.331810              npe
+13    -0.331578         download
+14    -0.329174    fix checkstyl
+15    -0.322305        xml secur
+16    -0.319303          javadoc
+17    -0.318934            space
+18    -0.318541            annot
+19    -0.318344              doc
+20    -0.315120        class use
+21    -0.299980  better download
+22    -0.299980   download handl
+23    -0.295112       fix jenkin
+24    -0.294527        checkstyl
+25    -0.293631            start
+26    -0.292919           compil
+27    -0.291880            field
+28    -0.285736        fix start
+29    -0.285736      start secur
+38675     0.498941          harden
+38676     0.500000            4585
+38677     0.500000   align wicket8
+38678     0.500000          fix 10
+38679     0.500000        fix merg
+38680     0.500000   harden serial
+38681     0.500000   keycloak 4585
+38682     0.500000    narrow class
+38683     0.500000        rf appli
+38684     0.500000  修复一些潜在的xxe漏洞代码
+38685     0.519860         protect
+38686     0.521486             xss
+38687     0.523884             tc7
+38688     0.523884       tc7 trunk
+38689     0.523884      tomcat tc7
+38690     0.534657        password
+38691     0.540698    camel improv
+38692     0.548090             bja
+38693     0.554978        backport
+38694     0.561532          attach
+38695     0.588684          deseri
+38696     0.597311           valid
+38697     0.598516     test failur
+38698     0.613107         confirm
+38699     0.624495     improv test
+38700     0.637439          serial
+38701     0.700301          vulner
+38702     0.774823          narrow
+38703     0.918468           secur
+38704     1.078085             cve
+0     -0.500000    improv patch
+1     -0.500000      patch test
+2     -0.393372           trunk
+3     -0.392424      failur git
+4     -0.391785   fix checkstyl
+5     -0.367279         amq fix
+6     -0.363149    tomcat trunk
+7     -0.343988       xml secur
+8     -0.336128          syncop
+9     -0.332017       checkstyl
+10    -0.312025           start
+11    -0.311789           space
+12    -0.305434           sourc
+13    -0.304567      amq improv
+14    -0.304198           annot
+15    -0.298442  trunk 13f79535
+16    -0.296808        download
+17    -0.293260             npe
+18    -0.292830   updat jackson
+19    -0.292271            move
+20    -0.290851     secur stabl
+21    -0.290851           stabl
+22    -0.288572  header authent
+23    -0.288480          compil
+24    -0.285176       fix start
+25    -0.285176     start secur
+26    -0.284141       class use
+27    -0.283169            json
+28    -0.276134         variabl
+29    -0.273682         javadoc
+38766     0.497246         set max
+38767     0.500000            4585
+38768     0.500000    chang branch
+38769     0.500000      enabl test
+38770     0.500000       fix enabl
+38771     0.500000        fix merg
+38772     0.500000    followup fix
+38773     0.500000   harden serial
+38774     0.500000   keycloak 4585
+38775     0.500000    narrow class
+38776     0.500000        rf appli
+38777     0.500000   whitespac log
+38778     0.500000  修复一些潜在的xxe漏洞代码
+38779     0.512826      branch git
+38780     0.526399          better
+38781     0.528462             tc7
+38782     0.528462       tc7 trunk
+38783     0.528462      tomcat tc7
+38784     0.538144             bja
+38785     0.542016          attach
+38786     0.542172     improv test
+38787     0.559647          deseri
+38788     0.632709          serial
+38789     0.637630         confirm
+38790     0.659862        followup
+38791     0.670765    camel improv
+38792     0.692049          vulner
+38793     0.737749           secur
+38794     0.781031          narrow
+38795     1.006739             cve
+0     -0.447423    improv patch
+1     -0.447423      patch test
+2     -0.395563    tomcat trunk
+3     -0.381521          provid
+4     -0.346389             npe
+5     -0.340119           annot
+6     -0.338195             doc
+7     -0.329872          syncop
+8     -0.316870       xml secur
+9     -0.308383         amq fix
+10    -0.307194         doc git
+11    -0.307194        fix java
+12    -0.307194        java doc
+13    -0.306099   updat jackson
+14    -0.299021       class use
+15    -0.289682     merg branch
+16    -0.284366           start
+17    -0.282272           trunk
+18    -0.279772      improv log
+19    -0.278669           space
+20    -0.274510         develop
+21    -0.273554         amq git
+22    -0.270004            fail
+23    -0.268000       fix start
+24    -0.268000     start secur
+25    -0.264010            warn
+26    -0.263850          extens
+27    -0.261098  header authent
+28    -0.255412           click
+29    -0.254371      fix jenkin

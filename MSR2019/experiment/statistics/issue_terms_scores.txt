@@ -1,0 +1,600 @@
+396213     0.144321        dtd handl
+396214     0.146420            thank
+396215     0.148392            handl
+396216     0.149761       white list
+396217     0.152068           castor
+396218     0.152069            white
+396219     0.155494            input
+396220     0.155585            ijuma
+396221     0.161753           attack
+396222     0.174716             lgtm
+396223     0.176249              non
+396224     0.190586             amqp
+396225     0.202612       fix branch
+396226     0.203478              pin
+396227     0.203568       certif pin
+396228     0.203568     clean certif
+396229     0.203568        pay clean
+396230     0.203568         pin lgtm
+396231     0.216211           deseri
+396232     0.218340              pay
+396233     0.224598           improv
+396234     0.232237  backport certif
+396235     0.232237    certif pinner
+396236     0.232237           pinner
+396237     0.232237       pinner fix
+396238     0.242352            clean
+396239     0.249814         backport
+396240     0.278409         keycloak
+396241     0.300217              cve
+396242     0.346835           certif
+0     -0.138368        check spring
+1     -0.138368  datacmn sonargraph
+2     -0.138368          sonargraph
+3     -0.138368    sonargraph check
+4     -0.101912                 rc1
+5     -0.101315             support
+6     -0.096031              rabbit
+7     -0.094951                null
+8     -0.091935              consum
+9     -0.091190              upgrad
+10    -0.086261              except
+11    -0.085728                 set
+12    -0.084488                 may
+13    -0.084045                 see
+14    -0.081290             instead
+15    -0.080877            interfac
+16    -0.079738                valu
+17    -0.079414         migrat http
+18    -0.079194             channel
+19    -0.077781        spring secur
+20    -0.075174                  pr
+21    -0.074701        input stream
+22    -0.074343               gener
+23    -0.071933            fix issu
+24    -0.071725               creat
+25    -0.070640                bean
+26    -0.069772                merg
+27    -0.069670             comment
+28    -0.068546               trunk
+29    -0.067115             javadoc
+406456     0.153714           attack
+406457     0.158377            input
+406458     0.158966            ijuma
+406459     0.159633           castor
+406460     0.160128              fix
+406461     0.160836           deseri
+406462     0.168660       white list
+406463     0.170576            white
+406464     0.170817            handl
+406465     0.172991             lgtm
+406466     0.176569             amqp
+406467     0.180372              non
+406468     0.184568            limit
+406469     0.205306              pin
+406470     0.205468       certif pin
+406471     0.205468     clean certif
+406472     0.205468        pay clean
+406473     0.205468         pin lgtm
+406474     0.207203       fix branch
+406475     0.214240              pay
+406476     0.228608  backport certif
+406477     0.228608    certif pinner
+406478     0.228608           pinner
+406479     0.228608       pinner fix
+406480     0.229009           improv
+406481     0.239283            clean
+406482     0.250893         backport
+406483     0.268740         keycloak
+406484     0.332244              cve
+406485     0.346297           certif
+0     -0.136798        check spring
+1     -0.135605  datacmn sonargraph
+2     -0.135605          sonargraph
+3     -0.135605    sonargraph check
+4     -0.123622             support
+5     -0.108355                null
+6     -0.098059              rabbit
+7     -0.097927                 rc1
+8     -0.094333            attribut
+9     -0.091845                valu
+10    -0.091700                  pr
+11    -0.090480             javadoc
+12    -0.090032             instead
+13    -0.088204               model
+14    -0.087896               annot
+15    -0.086660              consum
+16    -0.085874             channel
+17    -0.085559               trunk
+18    -0.084568              public
+19    -0.082289         migrat http
+20    -0.081197            interfac
+21    -0.080304                 see
+22    -0.080024                merg
+23    -0.079347        input stream
+24    -0.077412             reactiv
+25    -0.075128            protocol
+26    -0.075111               creat
+27    -0.074023             comment
+28    -0.072724              except
+29    -0.071723                  10
+411863     0.143939     packag white
+411864     0.153565           castor
+411865     0.157156       white list
+411866     0.159964            white
+411867     0.160117            handl
+411868     0.160216            ijuma
+411869     0.167284           deseri
+411870     0.167465            input
+411871     0.169449            limit
+411872     0.170107             lgtm
+411873     0.173992              fix
+411874     0.174397              non
+411875     0.185559             amqp
+411876     0.192185       fix branch
+411877     0.202702              pin
+411878     0.203042       certif pin
+411879     0.203042     clean certif
+411880     0.203042        pay clean
+411881     0.203042         pin lgtm
+411882     0.211956              pay
+411883     0.219393           improv
+411884     0.225393  backport certif
+411885     0.225393    certif pinner
+411886     0.225393           pinner
+411887     0.225393       pinner fix
+411888     0.247248         backport
+411889     0.250772            clean
+411890     0.263763         keycloak
+411891     0.331619              cve
+411892     0.352273           certif
+0     -0.150124             support
+1     -0.140183        check spring
+2     -0.138585  datacmn sonargraph
+3     -0.138585          sonargraph
+4     -0.138585    sonargraph check
+5     -0.098018               model
+6     -0.097513              rabbit
+7     -0.097187                 may
+8     -0.096790                null
+9     -0.096234             instead
+10    -0.094368                valu
+11    -0.093346                 use
+12    -0.090206                 rc1
+13    -0.090078            attribut
+14    -0.085318                bean
+15    -0.084418                  id
+16    -0.083402             session
+17    -0.082471                merg
+18    -0.082055         migrat http
+19    -0.080033                  10
+20    -0.079753              consum
+21    -0.079063             factori
+22    -0.078842                  pr
+23    -0.078001            protocol
+24    -0.077784             javadoc
+25    -0.076800            interfac
+26    -0.076554                 set
+27    -0.076443            fix issu
+28    -0.073521             comment
+29    -0.072859               creat
+411571     0.143500     packag white
+411572     0.143614              dtd
+411573     0.145150        dtd handl
+411574     0.153016           castor
+411575     0.155269            input
+411576     0.157698            handl
+411577     0.158818       white list
+411578     0.160657            white
+411579     0.161067            ijuma
+411580     0.165805              fix
+411581     0.170161           deseri
+411582     0.175888             amqp
+411583     0.177365            limit
+411584     0.183127             lgtm
+411585     0.194575            clean
+411586     0.200013       fix branch
+411587     0.206819              pin
+411588     0.207325       certif pin
+411589     0.207325     clean certif
+411590     0.207325        pay clean
+411591     0.207325         pin lgtm
+411592     0.216338              pay
+411593     0.221947           improv
+411594     0.223550  backport certif
+411595     0.223550    certif pinner
+411596     0.223550           pinner
+411597     0.223550       pinner fix
+411598     0.247002         backport
+411599     0.279364              cve
+411600     0.369838           certif
+0     -0.137781        check spring
+1     -0.137030  datacmn sonargraph
+2     -0.137030          sonargraph
+3     -0.137030    sonargraph check
+4     -0.119684             support
+5     -0.103814            attribut
+6     -0.098310               model
+7     -0.094017                null
+8     -0.093649              rabbit
+9     -0.090921                 rc1
+10    -0.087705                  pr
+11    -0.086462                valu
+12    -0.084099             instead
+13    -0.083914         migrat http
+14    -0.083559                merg
+15    -0.082887                 set
+16    -0.081777              consum
+17    -0.081282              public
+18    -0.079035               annot
+19    -0.078686               creat
+20    -0.078253                bean
+21    -0.077815            interfac
+22    -0.076944             channel
+23    -0.076569             javadoc
+24    -0.075650                 use
+25    -0.074526             reactiv
+26    -0.072739              except
+27    -0.072399                  10
+28    -0.070422        spring secur
+29    -0.070096            fix issu
+402309     0.128290            input
+402310     0.129940        amqp pull
+402311     0.133728            thank
+402312     0.135237        unmarshal
+402313     0.136851   normal resourc
+402314     0.136851  resourc servlet
+402315     0.136851   servlet spring
+402316     0.136851       spr normal
+402317     0.137262              dtd
+402318     0.141687            handl
+402319     0.142594     class packag
+402320     0.143082        dtd handl
+402321     0.143429            allow
+402322     0.145035        add class
+402323     0.145035    convert avail
+402324     0.145035    deseri messag
+402325     0.145035      list deseri
+402326     0.145035     packag white
+402327     0.153070           castor
+402328     0.155121           attack
+402329     0.158490           deseri
+402330     0.163572       white list
+402331     0.163702              non
+402332     0.164587            white
+402333     0.167627            ijuma
+402334     0.188513             amqp
+402335     0.190854            limit
+402336     0.226668           improv
+402337     0.266036         keycloak
+402338     0.337745              cve
+0     -0.145590        check spring
+1     -0.145590  datacmn sonargraph
+2     -0.145590          sonargraph
+3     -0.145590    sonargraph check
+4     -0.122619             support
+5     -0.113071               model
+6     -0.100923                 rc1
+7     -0.094522             javadoc
+8     -0.090716               annot
+9     -0.089309            attribut
+10    -0.088371              consum
+11    -0.084153                  pr
+12    -0.083824             instead
+13    -0.083538              except
+14    -0.083270             channel
+15    -0.081815                valu
+16    -0.080640         migrat http
+17    -0.079271                 see
+18    -0.078846             reactiv
+19    -0.077286            interfac
+20    -0.076739            protocol
+21    -0.073666                 set
+22    -0.072779              public
+23    -0.072694               creat
+24    -0.072372                 may
+25    -0.071912                merg
+26    -0.071492                pool
+27    -0.071363        spring secur
+28    -0.069851              rabbit
+29    -0.068384                bean
+399579     0.149713            thank
+399580     0.152082           attack
+399581     0.156813            handl
+399582     0.157924       white list
+399583     0.159431            white
+399584     0.159874           castor
+399585     0.161601            ijuma
+399586     0.165273            input
+399587     0.170752           deseri
+399588     0.173866             lgtm
+399589     0.174099              fix
+399590     0.182447             amqp
+399591     0.186716            limit
+399592     0.194574       fix branch
+399593     0.199534              pay
+399594     0.205097              pin
+399595     0.205234       certif pin
+399596     0.205234     clean certif
+399597     0.205234        pay clean
+399598     0.205234         pin lgtm
+399599     0.214954           improv
+399600     0.229610  backport certif
+399601     0.229610    certif pinner
+399602     0.229610           pinner
+399603     0.229610       pinner fix
+399604     0.250614         backport
+399605     0.253686            clean
+399606     0.256252         keycloak
+399607     0.327236              cve
+399608     0.346847           certif
+0     -0.121516             support
+1     -0.120274        check spring
+2     -0.119291  datacmn sonargraph
+3     -0.119291          sonargraph
+4     -0.119291    sonargraph check
+5     -0.103531               model
+6     -0.098340                null
+7     -0.093691            attribut
+8     -0.092742             instead
+9     -0.092528              rabbit
+10    -0.090489               annot
+11    -0.083752             channel
+12    -0.083578             javadoc
+13    -0.083050                 set
+14    -0.082950                merg
+15    -0.078631              except
+16    -0.078076                valu
+17    -0.076315         migrat http
+18    -0.074509                 rc1
+19    -0.073713                  pr
+20    -0.073531              consum
+21    -0.073484            protocol
+22    -0.072981               refer
+23    -0.072598         issu migrat
+24    -0.072114        input stream
+25    -0.071846            fix issu
+26    -0.070497              hibern
+27    -0.070036               creat
+28    -0.069293            interfac
+29    -0.069279              stream
+408326     0.149881           castor
+408327     0.150491            handl
+408328     0.154814           improv
+408329     0.157393            input
+408330     0.162260              dtd
+408331     0.164178        dtd handl
+408332     0.164469              fix
+408333     0.167766       white list
+408334     0.168656            ijuma
+408335     0.168770            white
+408336     0.175425             lgtm
+408337     0.177612            limit
+408338     0.187354              non
+408339     0.189626             amqp
+408340     0.190881       fix branch
+408341     0.203469       certif pin
+408342     0.203469     clean certif
+408343     0.203469        pay clean
+408344     0.203469              pin
+408345     0.203469         pin lgtm
+408346     0.213273              pay
+408347     0.226081  backport certif
+408348     0.226081    certif pinner
+408349     0.226081           pinner
+408350     0.226081       pinner fix
+408351     0.244969            clean
+408352     0.245991         backport
+408353     0.261114         keycloak
+408354     0.328138              cve
+408355     0.348985           certif
+0     -0.133335        check spring
+1     -0.132496  datacmn sonargraph
+2     -0.132496          sonargraph
+3     -0.132496    sonargraph check
+4     -0.120148             support
+5     -0.105460              rabbit
+6     -0.101866               model
+7     -0.095024            attribut
+8     -0.093120                valu
+9     -0.091898                null
+10    -0.087174                 see
+11    -0.084968            interfac
+12    -0.084059             instead
+13    -0.081133                merg
+14    -0.080975                  pr
+15    -0.080574         migrat http
+16    -0.079638                look
+17    -0.079537              config
+18    -0.078551             javadoc
+19    -0.076953             channel
+20    -0.076098             reactiv
+21    -0.074840             comment
+22    -0.072130               annot
+23    -0.071608        input stream
+24    -0.071064               creat
+25    -0.070356        spring secur
+26    -0.069888                pool
+27    -0.069549              extend
+28    -0.069493              consum
+29    -0.069134            fix issu
+406643     0.153085           attack
+406644     0.155551           deseri
+406645     0.156622       white list
+406646     0.157169           castor
+406647     0.159767            white
+406648     0.163421            input
+406649     0.168151            ijuma
+406650     0.170443            limit
+406651     0.173066            handl
+406652     0.174506             lgtm
+406653     0.176438              fix
+406654     0.188303             amqp
+406655     0.194255       fix branch
+406656     0.202760              pin
+406657     0.203000       certif pin
+406658     0.203000     clean certif
+406659     0.203000        pay clean
+406660     0.203000         pin lgtm
+406661     0.208878              non
+406662     0.213004              pay
+406663     0.224323           improv
+406664     0.226259  backport certif
+406665     0.226259    certif pinner
+406666     0.226259           pinner
+406667     0.226259       pinner fix
+406668     0.251032            clean
+406669     0.254522         backport
+406670     0.288443         keycloak
+406671     0.341665              cve
+406672     0.346692           certif
+0     -0.130051        check spring
+1     -0.128587  datacmn sonargraph
+2     -0.128587          sonargraph
+3     -0.128587    sonargraph check
+4     -0.114332                valu
+5     -0.111454             support
+6     -0.105105               model
+7     -0.101253              rabbit
+8     -0.098426                 rc1
+9     -0.097361             instead
+10    -0.095249            attribut
+11    -0.093969                null
+12    -0.091636                 set
+13    -0.087256             channel
+14    -0.085077                merg
+15    -0.082975              consum
+16    -0.082370         migrat http
+17    -0.082000                  pr
+18    -0.081981               annot
+19    -0.080945            interfac
+20    -0.078505               creat
+21    -0.076891             reactiv
+22    -0.075824            fix issu
+23    -0.073941                bean
+24    -0.071846            protocol
+25    -0.070540        spring secur
+26    -0.070427                 see
+27    -0.070136               start
+28    -0.069952              except
+29    -0.068569             factori
+406823     0.140739     packag white
+406824     0.144310        dtd handl
+406825     0.154743           attack
+406826     0.156664            handl
+406827     0.156740           castor
+406828     0.159430            ijuma
+406829     0.167626              fix
+406830     0.170604             lgtm
+406831     0.171481       white list
+406832     0.173716           deseri
+406833     0.174594            white
+406834     0.181368            limit
+406835     0.189723             amqp
+406836     0.198320       fix branch
+406837     0.203276              pin
+406838     0.203364       certif pin
+406839     0.203364     clean certif
+406840     0.203364        pay clean
+406841     0.203364         pin lgtm
+406842     0.211090              pay
+406843     0.227146  backport certif
+406844     0.227146    certif pinner
+406845     0.227146           pinner
+406846     0.227146       pinner fix
+406847     0.230982           improv
+406848     0.251713         backport
+406849     0.252374            clean
+406850     0.263996         keycloak
+406851     0.306661              cve
+406852     0.349196           certif
+0     -0.143376        check spring
+1     -0.139997  datacmn sonargraph
+2     -0.139997          sonargraph
+3     -0.139997    sonargraph check
+4     -0.131770             support
+5     -0.101205               model
+6     -0.101146                 see
+7     -0.100599                null
+8     -0.097598            attribut
+9     -0.094982              rabbit
+10    -0.093497                 rc1
+11    -0.088194                valu
+12    -0.086751             instead
+13    -0.086733             comment
+14    -0.082267                merg
+15    -0.082244               annot
+16    -0.079627        pull request
+17    -0.079405             javadoc
+18    -0.078661                  pr
+19    -0.077953        spring secur
+20    -0.077717              consum
+21    -0.077566         migrat http
+22    -0.076924              commit
+23    -0.076184                 may
+24    -0.074554                 set
+25    -0.073853             request
+26    -0.073414             reactiv
+27    -0.072986             channel
+28    -0.072162              extend
+29    -0.071511                bean
+398714     0.142795            limit
+398715     0.145499            thank
+398716     0.146646        unmarshal
+398717     0.147313       white list
+398718     0.148297            handl
+398719     0.149457            white
+398720     0.156508           castor
+398721     0.164003             lgtm
+398722     0.168243            ijuma
+398723     0.178900           deseri
+398724     0.185037              non
+398725     0.186301              fix
+398726     0.192604       fix branch
+398727     0.201618              pin
+398728     0.201739       certif pin
+398729     0.201739     clean certif
+398730     0.201739        pay clean
+398731     0.201739         pin lgtm
+398732     0.202286             amqp
+398733     0.211328              pay
+398734     0.218829         backport
+398735     0.218843           improv
+398736     0.224993  backport certif
+398737     0.224993    certif pinner
+398738     0.224993           pinner
+398739     0.224993       pinner fix
+398740     0.232499            clean
+398741     0.263334         keycloak
+398742     0.332846              cve
+398743     0.383589           certif
+0     -0.147700       support
+1     -0.102990         model
+2     -0.102016          lazi
+3     -0.101867      attribut
+4     -0.100817          null
+5     -0.096089         annot
+6     -0.094561            pr
+7     -0.094521           rc1
+8     -0.093757        consum
+9     -0.090947   migrat http
+10    -0.088477         creat
+11    -0.088031          valu
+12    -0.087865       javadoc
+13    -0.087820       channel
+14    -0.087685          merg
+15    -0.085239           may
+16    -0.084929       instead
+17    -0.084171        config
+18    -0.083251        public
+19    -0.078673      protocol
+20    -0.077123       comment
+21    -0.076919       reactiv
+22    -0.076123  spring secur
+23    -0.075590            10
+24    -0.072452        extend
+25    -0.072398        except
+26    -0.071903           set
+27    -0.071671          pool
+28    -0.069925           see
+29    -0.069676          bean

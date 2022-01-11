@@ -1,0 +1,69 @@
+Running process with these options:
+    Data set size: Full data
+    Ignore number as token: True
+    Use github issue: True
+    Use jira ticket: True
+    Use comments: True
+    Use bag of words: True
+    Positive weights: [0.1, 0.5, 0.9]
+    Max N-gram: 3
+    Min document frequency: 2
+    Use linked commit only: True
+    Use issue classifier: True
+Start loading records...
+Finish loading records
+Start preprocessing commit messages and commit file patches...
+Finish preprocessing commit messages commit file patches...
+Processing fold number: 1
+Processing fold number: 2
+Processing fold number: 3
+Processing fold number: 4
+Processing fold number: 5
+Processing fold number: 6
+Processing fold number: 7
+Processing fold number: 8
+Processing fold number: 9
+Processing fold number: 10
+------------------------------------------------
+Training result for positive weight: 0.1, negative weight: 0.9
+Log message mean precision: 0.91139831777353
+Log message mean recall: 0.5171613587901571
+Log message mean f1: 0.6593093674744728
+Issue mean precision: 0.7807851816318114
+Issue mean recall: 0.5091790960391129
+Issue mean f1: 0.6149964247141412
+Patch mean precision: 0.5505928912627446
+Patch mean recall: 0.6334214307220896
+Patch mean f1: 0.5861606821493053
+Joint-model mean precision: 0.546915871381512
+Joint-model mean recall: 0.82196609724285
+Joint-model mean f1: 0.6549843498964035
+------------------------------------------------
+Training result for positive weight: 0.5, negative weight: 0.5
+Log message mean precision: 0.7933868448120095
+Log message mean recall: 0.6228959495911552
+Log message mean f1: 0.6965141168916316
+Issue mean precision: 0.7758185781188816
+Issue mean recall: 0.5165859862474258
+Issue mean f1: 0.6182483367351569
+Patch mean precision: 0.521859211408054
+Patch mean recall: 0.6696537153669728
+Patch mean f1: 0.5828733400849866
+Joint-model mean precision: 0.5004888840079301
+Joint-model mean recall: 0.8548774866391942
+Joint-model mean f1: 0.6287409447055753
+------------------------------------------------
+Training result for positive weight: 0.9, negative weight: 0.09999999999999998
+Log message mean precision: 0.6738096066744723
+Log message mean recall: 0.7076959282095434
+Log message mean f1: 0.6893001363497688
+Issue mean precision: 0.2708639662218859
+Issue mean recall: 0.9031627292943419
+Issue mean f1: 0.41533146266306087
+Patch mean precision: 0.5312761146764473
+Patch mean recall: 0.6714563715227742
+Patch mean f1: 0.5905777390308907
+Joint-model mean precision: 0.2521946944373037
+Joint-model mean recall: 0.9561813574408257
+Joint-model mean f1: 0.3978465185942056
+------------------------------------------------
