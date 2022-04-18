@@ -3,6 +3,10 @@ Auto Vulnernability Fix Commit Classification
 
 The dataset is available at location: MSR/2019/experiment/full_data_set_with_all_features.txt
 
+Watch our presentation at SANER 2022: https://www.youtube.com/watch?v=S4a3wpHbVTw
+
+Slides for the presentation in file: HERMES-SANER-2022_slides.pptx
+
 in json format
 
 Data Object Classes are described in **entitites.py**
