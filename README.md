@@ -7,6 +7,8 @@ Watch our presentation at SANER 2022: https://www.youtube.com/watch?v=S4a3wpHbVT
 
 Slides for the presentation in file: HERMES-SANER-2022_slides.pptx
 
+Also PDF version: HERMES-SANER-2022_slides.pdf
+
 in json format
 
 Data Object Classes are described in **entitites.py**
