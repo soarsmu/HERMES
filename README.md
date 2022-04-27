@@ -14,7 +14,7 @@ in json format
 Data Object Classes are described in **entitites.py**
 
 ###### To replicate HERMES on full dataset please use this command
-python3 experiment.py --min_df 5 --use_linked_commits_only False --use_issue_classifier True --use_stacking_ensemble True --use-patch-context-lines False --tf-idf-threshold 0.005 --dataset full_dataset_with_all_features.txt
+python3 experiment.py --min_df 5 --use_linked_commits_only False --use_issue_classifier True --use_stacking_ensemble True --use-patch-context-lines False --tf-idf-threshold 0.005 --dataset sub_enhanced_dataset_th_100.txt
 
 ###### To replicate HERMES on subset of explicitly linked commits please use this command
 python3 experiment.py --min_df 5 --use_linked_commits_only True --use_issue_classifier True --use_stacking_ensemble True --use-patch-context-lines False --tf-idf-threshold 0.005 --dataset full_dataset_with_all_features.txt
